@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Vivekyd6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vivek Yadav . I am currenlty in 3rd year Mechanical Student in PDPM IIITDM JABALPUR.
+- 👀 I’m interested in Web Development and doing problems for increasing my problems solving skills .
+- 🌱 I’m currently doing DSA for my interview and technical interviews.
+- 💞️ I’m looking to collaborate on frontend projects and also in Web Development after learning many things of it.
+- 
+- 📫 How to reach me 
+-     Emaild Id :- vivekyadav36837@gmail.com 
+-     LinkedIN :- www.linkedin.com/in/vivek-yadav-149333192
 
-<!---
-Vivekyd6/Vivekyd6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
