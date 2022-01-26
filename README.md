@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/viveky_d6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/viveky_d6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://leetcode.com/vivek_yd_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vivek_yd_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
+<a href="https://codepen.io/viveky_d6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/viveky_d6" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vivek-yadav-149333192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
+<a href="https://leetcode.com/vivek_yd_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
