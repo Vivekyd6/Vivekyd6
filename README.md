@@ -5,13 +5,13 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vivekyd6" alt="vivekyd6" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, DSA, NodeJs, Api's**
+- 🌱 I’m currently learning **ReactJs, DSA, NodeJs, API, MongoDb, ExpressJS**
 
 - 👯 I’m looking to collaborate on **Frontend Web Projects**
 
-- 🤝 I’m looking for help with **Software Development Internships**
+- 🤝 I’m looking for help with **Software Development Internships, Web Development Internships**
 
-- 💬 Ask me about **react, C++ , Javascript**
+- 💬 Ask me about  **C++, HTML, CSS, React, Javascript**
 
 - 📫 How to reach me **vivekyadav36837@gmail.com**
 
