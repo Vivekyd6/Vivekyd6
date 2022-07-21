@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">A passionate Web developer and Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyd6&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyd6" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyd6&label=Profile%20views&color=blue&style=for-the-badge" alt="vivekyd6" /> </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vivekyd6" alt="vivekyd6" /> </p>
 
