@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyd6&label=Profile%20views&color=blue&style=for-the-badge" alt="vivekyd6" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vivekyd6" alt="vivekyd6" /> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vivekyd6&theme=discord" alt="vivekyd6" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, DSA, NodeJs, API, MongoDb, ExpressJS**
 
