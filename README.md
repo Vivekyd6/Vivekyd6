@@ -41,7 +41,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LeetCode Stats:</h3>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=contest)](https://leetcode.com/Vivek_yd_6)
 
