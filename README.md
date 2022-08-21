@@ -40,8 +40,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<b>My Leetcode Stats</b>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=activity?ext=contest)](https://leetcode.com/Vivek_yd_6)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=contest)](https://leetcode.com/Vivek_yd_6)
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Vivek_yd_6" width="400"/>
+</a>
 
 <b>My GitHub Stats</b>
 
