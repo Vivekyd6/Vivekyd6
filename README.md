@@ -24,7 +24,7 @@
 <a href="https://leetcode.com/vivek_yd_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
 </p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=activity)](https://leetcode.com/Vivek_yd_6)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,6 +40,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+<b>My Leetcode Stats</b>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=activity?ext=contest)](https://leetcode.com/Vivek_yd_6)
 
 <b>My GitHub Stats</b>
 
