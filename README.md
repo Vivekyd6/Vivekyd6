@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, DSA, NodeJs, API, MongoDb, ExpressJS**
 
-- 👯 I’m looking to collaborate on **Frontend Web Projects**
-
-- 🤝 I’m looking for help with **Software Development Internships, Web Development Internships**
+- 🤝 I’m looking for help with **Software Development Internships**
 
 - 💬 Ask me about  **C++, HTML, CSS, React, Javascript**
 
