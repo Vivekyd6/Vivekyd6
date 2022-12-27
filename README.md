@@ -6,10 +6,9 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vivekyd6&theme=discord" alt="vivekyd6" /> </p>
 
 - 🌱 I am Proficient in **ta Structures and Algorithms , Oops concepts in C++ Language and takes keen interest in Problem Solving**
-- 
-- 🌱 I’m currently learning **ReactJs, DSA, NodeJs, API, MongoDb, ExpressJS**
+- 🌱 I’m currently learning **Mern Stack Web Development**
 
-- 🤝 I’m looking for help with **Software Development Internships**
+- 🤝 I’m looking for  **Software Development Internships**
 
 - 💬 Ask me about  **C++, HTML, CSS, React, Javascript**
 
