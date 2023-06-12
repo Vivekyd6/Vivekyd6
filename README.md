@@ -32,9 +32,7 @@
 
 - 🌱 I’m currently learning **Mern Stack Web Development**
 
-- 🤝 I’m looking for  **Software Development Internships**
-
-- 💬 Ask me about  **C++, HTML, CSS, React, Javascript**
+- 🤝 I’m looking for  ** Internships / Full time  in Software Development , Frontend Development , Full stack Development , Site Reliability Engineering Domain**
 
 - 📫 How to reach me **vivekyadav36837@gmail.com**
 
