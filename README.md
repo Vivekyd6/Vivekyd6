@@ -28,15 +28,7 @@
   </a>
 </p>
 
-- 🌱 I am Proficient in **Data Structures and Algorithms , Oops concepts in C++ Language and takes keen interest in Problem Solving**
 
-- 🌱 I’m currently learning **Mern Stack Web Development**
-
-- 🤝 I’m looking for  ** Internships / Full time  in Software Development , Frontend Development , Full stack Development , Site Reliability Engineering Domain**
-
-- 📫 How to reach me **vivekyadav36837@gmail.com**
-
-- ⚡ Fun fact **I am Very Passionate about learning things**
 
 <div align = "center">
 <h2>Languages and Technologies/Frameworks:</h2>
