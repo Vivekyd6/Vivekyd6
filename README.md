@@ -20,8 +20,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">A passionate Web developer and Programmer from India</h3>
-
 <p align="center">
   <a href="https://github.com/Vivekyd6">
     <img src="https://komarev.com/ghpvc/?username=Vivekyd6&color=blue&style=flat)" />
@@ -34,15 +32,13 @@
 <h2>Languages and Technologies/Frameworks:</h2>
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Vivekyd6)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Vivekyd6)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/Vivekyd6)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Vivekyd6)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Vivekyd6)
 <!-- [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vivekyd6) -->
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Vivekyd6)
+[![Spring Boot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/Vivekyd6)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Vivekyd6)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Vivekyd6)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Vivekyd6)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Vivekyd6)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Vivekyd6)
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Vivekyd6) -->
 </div>
 <div align = "center">
