@@ -45,9 +45,9 @@
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Vivekyd6) -->
 </div>
 <div align = "center">
-<h2>LeetCode Stats:</h2>
+## LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=contest)]([https://leetcode.com/Vivek_yd_6](https://leetcode.com/u/vivek_yadav_vy/))
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vivek_yadav_vy?ext=contest&theme=dark)](https://leetcode.com/u/vivek_yadav_vy/)
 </div>
 <div align = "center">
 <h2>My GitHub Stats</h2>
