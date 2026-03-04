@@ -47,7 +47,7 @@
 <div align = "center">
 <h2>LeetCode Stats:</h2>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=contest)](https://leetcode.com/Vivek_yd_6)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Vivek_yd_6?ext=contest)]([https://leetcode.com/Vivek_yd_6](https://leetcode.com/u/vivek_yadav_vy/))
 </div>
 <div align = "center">
 <h2>My GitHub Stats</h2>
