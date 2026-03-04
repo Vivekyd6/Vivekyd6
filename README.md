@@ -1,76 +1,83 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+
+# Hi 👋, I'm Vivek Yadav
+
+<img src="https://komarev.com/ghpvc/?username=Vivekyd6&color=blue&style=flat" />
+
 </div>
 
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/vivek-yadav-149333192/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="https://leetcode.com/vivek_yadav_vy/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode Badge"
-  />
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vivek-yadav-149333192/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <a href="github.com/Vivekyd6">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="https://twitter.com/VivekYa93262512">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
+<a href="https://leetcode.com/u/vivek_yadav_vy/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Vivekyd6">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/VivekYa93262512">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
+## 🚀 Tech Stack
 
-<h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<p align="center">
-  <a href="https://github.com/Vivekyd6">
-    <img src="https://komarev.com/ghpvc/?username=Vivekyd6&color=blue&style=flat)" />
-  </a>
-</p>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
 
-
-<div align = "center">
-<h2>Languages and Technologies/Frameworks:</h2>
-
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Vivekyd6)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/Vivekyd6)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Vivekyd6)
-<!-- [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Vivekyd6) -->
-[![Spring Boot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/Vivekyd6)
-[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Vivekyd6)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Vivekyd6)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Vivekyd6)
-<!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Vivekyd6) -->
 </div>
-<div align = "center">
-## LeetCode Stats
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vivek_yadav_vy?ext=contest&theme=dark)](https://leetcode.com/u/vivek_yadav_vy/)
+
 </div>
-<div align = "center">
-<h2>My GitHub Stats</h2>
 
-  <a href="https://github.com/Vivekyd6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivekyd6&theme=transparent" />
-  </a>
-  <a href="https://github.com/Vivekyd6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekyd6&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Vivekyd6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivekyd6&theme=transparent" />
-  </a>
- 
-  </div>
-<div align = "center">
- <a href="https://github.com/Vivekyd6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekyd6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%50%Languages" alt="Top Languages" /></a>
-  
-  </div>
-<!-- <a href="http://www.github.com/Vivekyd6"><img src="https://github-readme-stats.vercel.app/api?username=Vivekyd6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="sahilkhoslaa's GitHub stats" /></a> -->
+---
 
+## 📊 GitHub Stats
 
-<!-- <a href="http://www.github.comVivekyd6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekyd6&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  -->
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivekyd6&theme=transparent" />
 
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekyd6&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivekyd6&theme=transparent" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekyd6&langs_count=8&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
