@@ -6,9 +6,12 @@
   <a href="https://www.linkedin.com/in/vivek-yadav-149333192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[[https://leetcode.com/Vivek_yd_6/](http://leetcode.com/vivek_yadav_vy/)])">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
-  </a>
+<a href="https://leetcode.com/vivek_yadav_vy/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode Badge"
+  />
+</a>
   <a href="github.com/Vivekyd6">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
